@@ -5,7 +5,7 @@
 > Andreas Rozek<br>
 > Brunnenstraße 30/2<br>
 > D-71032 Böblingen<br>
-> Email: a.rozek@gmx.de<br>
+> EMail: a.rozek@gmx.de<br>
 > Phone: +49 (7031) 4365784
 
 **Represented by:**
@@ -13,7 +13,7 @@
 > Andreas Rozek<br>
 > Brunnenstraße 30/2<br>
 > D-71032 Böblingen<br>
-> Email: a.rozek@gmx.de<br>
+> EMail: a.rozek@gmx.de<br>
 > Phone: +49 (7031) 4365784
 
 **VAT ID:**
@@ -25,7 +25,7 @@ Value Added Tax Identification Number according to §27a Umsatzsteuergesetz: DE2
 > Andreas Rozek<br>
 > Brunnenstraße 30/2<br>
 > D-71032 Böblingen<br>
-> Email: a.rozek@gmx.de<br>
+> EMail: a.rozek@gmx.de<br>
 > Phone: +49 (7031) 4365784
 
 ## Disclaimer ##
