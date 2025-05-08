@@ -36,6 +36,20 @@ Here you will find two files each in German and English
 * Imprint in [German](Imprint_de.md) and [English](Imprint_en.md)
 * Data privacy statement in [German](Data-Privacy-Statement_de.md) and [English](Data-Privacy-Statement_en.md)
 
+## Impressum und Datenschutzerklärung ##
+
+Für rechtliche Informationen besuchen Sie bitte:
+
+- [Impressum](https://rozek.github.io/imprint-and-data-privacy-statement/Imprint_de.html)
+- [Datenschutzerklärung](https://rozek.github.io/imprint-and-data-privacy-statement/Data-Privacy-Statement_de.html)
+
+## Imprint and Data Privacy Statement ##
+
+For legal information please visit:
+
+- [Imprint](https://rozek.github.io/imprint-and-data-privacy-statement/Imprint_en.html)
+- [Data Privacy Statement](https://rozek.github.io/imprint-and-data-privacy-statement/Data-Privacy-Statement_en.html)
+
 ## License ##
 
 [MIT License](LICENSE.md)
