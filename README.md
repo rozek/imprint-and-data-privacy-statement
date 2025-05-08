@@ -19,6 +19,8 @@ Sie finden hier je zwei Dateien in den Sprachen Deutsch und Englisch
 * Impressum auf [deutsch](Imprint_de.md) und [englisch](Imprint_en.md)
 * Datenschutzerklärung auf [deutsch](Data-Privacy-Statement_de.md) und [englisch](Data-Privacy-Statement_en.md)
 
+Am Ende dieser Seite finden Sie zudem ein Beispiel dafür, wie Sie diese beiden Dokumente in das README.md Ihres eigenen Repository integrieren können.
+
 ## English Version ##
 
 Operating a website in and for Germany is not without risk, because there are a whole series of rules to be observed and there are still lawyers who automatically scour the Internet for violations of these rules, only to subsequently issue the operators with a fee-based warning.
@@ -35,6 +37,8 @@ Here you will find two files each in German and English
 
 * Imprint in [German](Imprint_de.md) and [English](Imprint_en.md)
 * Data privacy statement in [German](Data-Privacy-Statement_de.md) and [English](Data-Privacy-Statement_en.md)
+
+At the bottom of this page you will also find an example of how you can integrate these two documents into the README.md of your own repository.
 
 ## Impressum und Datenschutzerklärung ##
 
